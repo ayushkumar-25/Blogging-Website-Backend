@@ -1,6 +1,6 @@
 # Blogging Website Backend
 
-#### [Click Here](https://m2bxkj.deta.dev/docs) to test the APIs.
+#### [Click Here](https://blogging_website-1-c3940608.deta.app/docs) to test the APIs.
 
 
 For Authorization:
